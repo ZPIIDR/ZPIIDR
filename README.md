@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=ZPIIDR&color=000000&style=for-the-badge&label=help-me
+![](https://komarev.com/ghpvc/?username=ZPIIDR&color=000000&style=for-the-badge&label=help-me)
 
 ![](https://files.catbox.moe/x675eg.png)
 ![](https://files.catbox.moe/qyzvz8.png)
