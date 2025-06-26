@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ZPIIDR&color=539289&style=for-the-badge&label=profile-views-⟢)
+![](https://komarev.com/ghpvc/?username=ZPIIDR&color=539289&style=for-the-badge&label=profile_views_⟢)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n7g6dvqqckkvzd64dbkpkhaqqq&cover_image=true&theme=novatorem&show_offline=false&background_color=1f2323&interchange=false&bar_color=1db954&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n7g6dvqqckkvzd64dbkpkhaqqq&redirect=true)
