@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ZPIIDR&color=539289&style=for-the-badge&label=⟢)
-![](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE?si=bf047bfbd3d34bd4)
+[![Spotify](https://img.shields.io/badge/Now%20Playing-Rock%20That%20Body-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3B4LnmCWT4T1Oy72Qm6dDK)
+
 
 ![](https://files.catbox.moe/x675eg.png)
 ![](https://files.catbox.moe/qyzvz8.png)
