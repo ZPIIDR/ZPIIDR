@@ -9,16 +9,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/p26jqw.webp" />
-  <img src="https://files.catbox.moe/iyq016.gif" />
-  <img src="https://files.catbox.moe/d3g4us.png" />
-  <img src="https://files.catbox.moe/481rsg.webp" />
-  <img src="https://files.catbox.moe/ehp5m4.pnj" />
-  <img src="https://files.catbox.moe/bmmbsh.png" />
-  <img src="https://files.catbox.moe/t1wjrf.webp" />
-</p>
+![](https://files.catbox.moe/p26jqw.webp)
+![](https://files.catbox.moe/iyq016.gif)
+![](https://files.catbox.moe/d3g4us.png)
+![](https://files.catbox.moe/481rsg.webp)
+![](https://files.catbox.moe/ehp5m4.pnj)
+![](https://files.catbox.moe/bmmbsh.png)
 
+ ![](https://files.catbox.moe/t1wjrf.webp)
 
 ![](https://dl.glitter-graphics.com/pub/3010/3010855aamqcnmkam.jpg)
 ![](https://dl.glitter-graphics.com/pub/3010/3010862jtj44ho4ln.gif)
