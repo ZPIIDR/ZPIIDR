@@ -19,11 +19,10 @@
   <img src="https://files.catbox.moe/t1wjrf.webp" />
 </p>
 
-<p align="center">
-  <img src="https://dl.glitter-graphics.com/pub/3010/3010855aamqcnmkam.jpg" />
-  <img src="https://dl.glitter-graphics.com/pub/3010/3010862jtj44ho4ln.gif" />
-  <img src="https://dl.glitter-graphics.com/pub/632/632
 
+![](https://dl.glitter-graphics.com/pub/3010/3010855aamqcnmkam.jpg)
+![](https://dl.glitter-graphics.com/pub/3010/3010862jtj44ho4ln.gif)
+ ![](https://dl.glitter-graphics.com/pub/632/632861pojwqs3scx.gif)
 
 
 
