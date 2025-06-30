@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="<img src="https://komarev.com/ghpvc/?username=ZPIIDR&color=539289&style=plastic&label=profile_views_⟢" />
+  <img src="https://komarev.com/ghpvc/?username=ZPIIDR&color=539289&style=plastic&label=profile_views_⟢" />
   <img src="https://cdn.discordapp.com/attachments/1249866886687227914/1388250985419505755/IMG_5357.gif?ex=68604cfb&is=685efb7b&hm=0b43819d089249d8df945a0d1c8bbd9a1cf3524cb030b9908c73ee73f369b180&" />
 </p>
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n7g6dvqqckkvzd64dbkpkhaqqq&redirect=true">
