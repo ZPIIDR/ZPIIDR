@@ -17,9 +17,7 @@
 ![](https://files.catbox.moe/ehp5m4.pnj)
 ![](https://files.catbox.moe/bmmbsh.png)
 
- ![chasing sasu gif](https://files.catbox.moe/t1wjrf.webp)
-
-![glitter big stmpsss](https://dl.glitter-graphics.com/pub/3010/3010855aamqcnmkam.jpg)
+ ![chasing sasu gif](https://files.catbox.moe/t1wjrf.webp) ![glitter big stmpsss](https://dl.glitter-graphics.com/pub/3010/3010855aamqcnmkam.jpg)
 ![](https://dl.glitter-graphics.com/pub/3010/3010862jtj44ho4ln.gif)
  ![naru running](https://dl.glitter-graphics.com/pub/632/632861pojwqs3scx.gif)
 
