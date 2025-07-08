@@ -40,3 +40,10 @@
   </tr>
 </table>
 
+
+
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hkt9qrnjep5f745l6b06b71oo&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hkt9qrnjep5f745l6b06b71oo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" width="400" />
+</a>
+
