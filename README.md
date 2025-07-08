@@ -10,13 +10,6 @@
   </a>
 </p>
 
-![SASUNARU STAMPS HERE](https://files.catbox.moe/p26jqw.webp)
-![](https://files.catbox.moe/iyq016.gif)
-![](https://files.catbox.moe/d3g4us.png)
-![](https://files.catbox.moe/481rsg.webp)
-![](https://files.catbox.moe/ehp5m4.pnj)
-![](https://files.catbox.moe/bmmbsh.png)
- ![naru running](https://dl.glitter-graphics.com/pub/632/632861pojwqs3scx.gif)
 
  ![chasing sasu gif](https://files.catbox.moe/t1wjrf.webp) 
 
