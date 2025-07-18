@@ -14,24 +14,20 @@
  ![chasing sasu gif](https://files.catbox.moe/t1wjrf.webp) 
 
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0 auto;">
+<table>
   <tr>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/1x7j3p.jpeg" width="460"/></td>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/ca9nr4.jpeg" width="460"/></td>
+    <td><img src="https://files.catbox.moe/1x7j3p.jpeg" width="480"/></td>
+    <td><img src="https://files.catbox.moe/ca9nr4.jpeg" width="480"/></td>
   </tr>
   <tr>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/u2fvh9.png" width="460"/></td>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/bagenv.png" width="460"/></td>
+    <td><img src="https://files.catbox.moe/u2fvh9.png" width="480"/></td>
+    <td><img src="https://files.catbox.moe/bagenv.png" width="480"/></td>
   </tr>
   <tr>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/j0x9py.png" width="460"/></td>
-    <td style="padding: 0;"><img src="https://files.catbox.moe/hq0dzt.jpeg" width="460"/></td>
+    <td><img src="https://files.catbox.moe/j0x9py.png" width="480"/></td>
+    <td><img src="https://files.catbox.moe/hq0dzt.jpeg" width="480"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 0;">
-      <img src="https://files.catbox.moe/ns8pnf.jpeg" width="460"/>
-    </td>
+    <td colspan="2" align="center"><img src="https://files.catbox.moe/ns8pnf.jpeg" width="480"/></td>
   </tr>
 </table>
-
-
