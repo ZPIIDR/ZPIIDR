@@ -27,6 +27,7 @@
     <td><img src="https://files.catbox.moe/hq0dzt.jpeg" width="500"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://files.catbox.moe/ns8pnf.jpeg" width="500"/></td>
+    <td><img src="https://files.catbox.moe/ns8pnf.jpeg" width="500"/></td>
+    <td><img src="https://files.catbox.moe/bq9r4b.png" width="500"/></td>
   </tr>
 </table>
