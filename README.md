@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><img src="https://files.catbox.moe/u2fvh9.png" width="500"/></td>
-    <td><img src="https://files.catbox.moe/bagenv.png" width="500"/></td>
+    <td><img src="https://files.catbox.moe/bq9r4b.png" width="500"/></td>
   </tr>
   <tr>
     <td><img src="https://files.catbox.moe/j0x9py.png" width="500"/></td>
@@ -28,6 +28,7 @@
   </tr>
   <tr>
     <td><img src="https://files.catbox.moe/ns8pnf.jpeg" width="500"/></td>
-    <td><img src="https://files.catbox.moe/bq9r4b.png" width="500"/></td>
+    <td><img src="https://files.catbox.moe/bagenv.png" width="500"/></td>
   </tr>
 </table>
+
